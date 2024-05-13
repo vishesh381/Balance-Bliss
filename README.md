@@ -24,23 +24,10 @@ Video   :   [Click here to watch Video]
 
 **App Screenshots :**
 
-![BalanceBliss](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot1.jpg)
-
-![BalanceBliss](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot2.jpg)
-
-![BalanceBliss](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot4.jpg)
-
-![BalanceBliss](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot5.jpg)
-
-![BalanceBliss](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot10.jpg)
-
-![BalanceBliss Logo](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot14.jpg)
-
-![BalanceBliss Logo](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot15.jpg)
-
-![BalanceBliss Logo](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot16.jpg)
-
-![BalanceBliss Logo](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot21.jpg)
+![Image 1](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot1.jpg) | ![Image 2](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot2.jpg) | ![Image 3](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot4.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
+![Image 4](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot5.jpg) | ![Image 5](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot10.jpg) | ![Image 6](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot14.jpg)
+![Image 7](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot15.jpg) | ![Image 8](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot16.jpg) | ![Image 9](https://github.com/vishesh381/Balance-Bliss/blob/main/SourceCode/Screenshots/Screenshot21.jpg)
 
 
 
