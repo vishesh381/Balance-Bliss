@@ -11,9 +11,15 @@ The link to idea proposal : [Idea Proposal]
 
 Design Implementation   :  [Design Implementation]
 
+**Video Recording:**    
 
-[Idea Proposal]: <https://docs.google.com/document/d/1OM90OS6ckcJpI0Ize9dJx3mIkIW6oYGbFsxCGGBF3b4/edit?usp=sharing>
+Video   :   [Video]
+
+
+[Idea Proposal]: <https://docs.google.com/document/d/1AZlF9scWrAH995QNt1mot6go5mJKHp-75HKYXXh-ehQ/edit?usp=sharing>
 
 [Design Implementation]: <https://www.figma.com/file/ipXapEGL0JXTyhk6rfu4fU/Untitled?type=whiteboard&node-id=0%3A1&t=770vh0CUlWG1q6uv-1>
+
+[Video]: <https://youtu.be/1X-yq917Uo8?si=ZVeptujrjpa3Pzes>
 
 
