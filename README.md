@@ -12,14 +12,6 @@ The link to idea proposal : [Idea Proposal]
 Design Implementation   :  [Design Implementation]
 
 
-__Team 7 Members :__
-
-Vishesh Sharma
-
-Grishma Pandiyath
-
-Kassandra Camarillo
-
 [Idea Proposal]: <https://docs.google.com/document/d/1OM90OS6ckcJpI0Ize9dJx3mIkIW6oYGbFsxCGGBF3b4/edit?usp=sharing>
 
 [Design Implementation]: <https://www.figma.com/file/ipXapEGL0JXTyhk6rfu4fU/Untitled?type=whiteboard&node-id=0%3A1&t=770vh0CUlWG1q6uv-1>
